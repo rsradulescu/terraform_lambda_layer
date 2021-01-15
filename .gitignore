@@ -1,0 +1,5 @@
+/.terraform/
+/functions/001_localfile_lambda/app.py.zip
+/.terraform.lock.hcl
+/terraform.tfstate
+/terraform.tfstate.backup
